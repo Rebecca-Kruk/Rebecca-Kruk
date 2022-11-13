@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rebecca Krukover 👋🏻</h1>
-<h3 align="center">A passionate frontend / fullstack web developer</h3>
+<h3 align="center">A passionate Frontend / Fullstack Web developer</h3>
 
 - 🎯 Constantly strive to strengthen and refine professional effectiveness.
 
