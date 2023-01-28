@@ -9,8 +9,6 @@
 
 - 😎 I recently built a clone of Trello, check it out, it has everything! [Rello](https://rello-sprint4.onrender.com/)
 
-- 📫 How to reach me **rebeccakruk@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rebecca-krukover-68b340256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebecca krukover" height="30" width="40" /></a>
